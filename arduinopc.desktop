@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=ArduinoPC
+GenericName=ArduinoPC
+Comment=Arduino-PC Communication Frontend
+Exec=run-arduinopc.sh
+Icon=arduinopc.png
+Terminal=false
+Categories=Development;

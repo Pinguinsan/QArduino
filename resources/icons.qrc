@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/arduinopc-small.png</file>
+        <file>icons/arduinopc.png</file>
+        <file>icons/high.png</file>
+        <file>icons/low.png</file>
+    </qresource>
+</RCC>
